@@ -1,0 +1,57 @@
+
+
+--- PAGE 1 ---
+
+Ethan Nixon
+nixone2@mcmaster.ca ·647-885-8921 ·www.linkedin.com/in/ethan-nixonn/
+Skills
++Softwares: Altium Designer, KiCAD, PSpice, LTspice, Quartus Prime, Solidworks, Inventor,
+Programming : C, C++, Python, Verilog, PyTorch, OpenCV, Perl, REACT, MATLAB, bash
+EDUCATION
+McMaster University Hamilton, ON
+BASc Candidate for Bachelors of Computer Engineering, 3.8 GPA Sept 2024 - April 2028
+Experience
+McMaster Mars Rover |Electrical Team Lead & Battery Subsystem Lead September 2024–Present
+•Leading & Managing all members of the Electrical Team to develop a fully functioning V3 Rover Electrical
+System, overseeing both Schematic & PCB reviews , board validation, and assembly.
+•Developing a custom 6-layer Battery Management System (BMS) PCB featuring an STM32, passive
+balancing, protection circuits, and high-accuracy current/voltage sensing for rover telemetry.
+•Designed and validated a 4-layer Teensy 4.1 -based communication board integrating GPSandLoRamodules
+withdual RF power domains , fan controllers, a servo driver, and diagnostic indicators for telemetry and
+autonomous control operations.
+•Assembled and tested 15+ 24 V stepper motor controller boards , evaluating electrical performance, efficiency,
+and thermal stability under varying mechanical loads.
+•Developed and validated a 6-layer, 4-phase 48 V →24 V buck converter with integrated fault indicators,
+soft-start behavior, custom thermal mitigation, and an output protection stage .
+Onside AI |Computer Vision & Machine Learning Intern October 2025 – Present
+•Designed a vision-based AI detection system that integrates object recognition, behavioral cues, and apparel
+classification, optimized for multi-class security-camera perception.
+•Trained and refined multiple YOLO models inPython/PyTorch , including a dual-model architecture to
+address class-imbalance issues, improve stability, and achieve accurate real-time inference .
+•Developed a multimodal analysis pipeline that combines YOLO detections with contextual reasoning based on
+VLM, allowing for improved state-classification and reduced chance of false positives.
+Dentra |Electrical Design Intern May 2025 – Aug 2025
+•Developed electrical schematics and prototype circuits for wearable dental diagnostic hardware, validating
+performance through PSpice simulations.
+•Collaborated within the hardware team to design and test power delivery subsystems, including LDO regulators ,
+LiPo charging circuits , andUV LED drivers under varying load and thermal conditions.
+•Supported schematic bring-up in Altium Designer , advising on component selection, PCB layout practices, and
+grounding, trace width, and thermal management design parameters.
+•Ensured hardware safety and performance by integrating temperature-protection features and validating current
+limits,voltage tolerances , and thermal margins through iterative bench testing.
+Culinary Compass |Machine Learning & Data Science Intern March 2025 – July 2025
+•Contributed to the design of multiple AI-driven menu recommendation systems , achieving up to 95%
+precision in recommendation relevance.
+•Conducted structured technical reviews of LLM-based, embedding-based, and TF-IDF + cosine similarity
+models, comparing performance across synthetic user profiles using an LLM judge.
+Projects
+•Electric Scooter Soldering, C++, 3D Printing September 2025
+Designed and built a custom electric scooter integrating a BLDC motor, ESC, throttle speed control , a
+tack-welded Li-ion battery pack, BMS, and an onboard speed/data display .
+•Blurify: Fast & Easy Video Blurring Python, OpenCV, MoviePy, Streamlit June 2025
+Built an AI blurring web app at SpurHacks 2025 to detect and blur sensitive elements in videos. Used OpenCV
+for processing, MoviePy for synchronization, and deployed via Streamlit .
+•Smart Watch Python, Flask, React, ESP32, OpenCV, EasyOCR, C++ March 2025
+Built an assistive watch for a client with Usher’s Syndrome using an ESP32 camera and Flaskserver. The
+device reads labels at the push of a button and does TTS, Achieved 85% accuracy and added
+temperature-based audio alerts .
