@@ -1,2 +1,2 @@
-# website
-personal website
+# portfolio
+Hardware Portfolio
